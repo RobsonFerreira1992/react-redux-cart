@@ -4,10 +4,10 @@ Esse é um mini projeto teste do processo seletivo wefit. Nele o usuário pode e
 
 ## Baixar o Projeto e instalar 
 
- 1- Faça um git clone do projeto em seu computador 
- 2- Em seguida clone o projeto em alguma pasta do seu computador 
- 3- Abra o projeto no seu visual code ou algum de sua preferência
- 4- Em seguida com o projeto aberto em seu visual code aberto abra o terrminal dentro dele.
+ 1- Faça um git clone do projeto em seu computador;
+ 2- Em seguida clone o projeto em alguma pasta do seu computador; 
+ 3- Abra o projeto no seu visual code ou algum de sua preferência;
+ 4- Em seguida com o projeto aberto em seu visual code aberto abra o terrminal dentro dele;
  ![image](https://user-images.githubusercontent.com/55917886/224380751-5e811519-3c4c-4237-ad91-825a8c47646b.png)
  
  5- Digite primeiro o comando:
