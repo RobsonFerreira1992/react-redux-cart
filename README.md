@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+![image](https://user-images.githubusercontent.com/55917886/224379497-b761622b-6acb-4944-a0fa-c8d56c009783.png)
 In the project directory, you can run:
 
 ### `yarn start`
