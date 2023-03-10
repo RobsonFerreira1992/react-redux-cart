@@ -16,6 +16,7 @@ Esse é um mini projeto teste do processo seletivo wefit. Nele o usuário pode e
  
  5- Digite primeiro o comando:
  ### yarn json-server --watch ./mock/server.json
+ ![image](https://user-images.githubusercontent.com/55917886/224383210-bbe60bd9-77de-4faf-a69e-c74cf5f1d67c.png)
  Este comando executa o nosso servidor local para o consumo das informações
  
  6- Em seguida digite o segundo comando:
