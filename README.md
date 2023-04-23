@@ -1,6 +1,4 @@
-# Projeto E-commerce Wefit teste
-
-Esse é um mini projeto teste do processo seletivo wefit. Nele o usuário pode estar adicionando e excluindo items do seu carrinho de compra. 
+# Cart Shopping 
 
 ## Baixar o Projeto e instalar 
 
